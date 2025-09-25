@@ -1,8 +1,7 @@
-# 🐝 MarketBEE  
-소상공인을 위한 AI 기반 카드뉴스 생성 & 스마트 리포트 플랫폼  
-<br>
+# 🐝 marketBEE  
+marketBEE는 소상공인의 성장을 위해 꿀벌처럼 부지런히 일하며 본업에 집중할 수 있도록 돕는 AI 파트너 입니다.
 > **배포 주소**: [http://marketbee.site](http://marketbee.site)
-
+<img width="2916" height="1376" alt="Image" src="https://github.com/user-attachments/assets/755e95c6-fc4b-4f66-8bae-662512684be1" />
 <br>
 <br>
 
@@ -51,6 +50,7 @@ MarketBEE는 소상공인의 **폐업률 감소와 매출 증대**를 목표로 
 ## 🖼️ 서비스 화면
 실제 서비스에서 사용되는 주요 화면입니다.
 
-1. 카드뉴스 생성 화면
+### 1. 카드뉴스 생성 화면
 
-2. 스마트 리포트 화면
+
+### 2. 스마트 리포트 화면
