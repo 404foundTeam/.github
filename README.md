@@ -76,19 +76,20 @@ MarketBEE는 소상공인의 **폐업률 감소와 매출 증대**를 목표로 
 ## 🖼️ 서비스 화면
 실제 서비스에서 사용되는 주요 화면입니다.
 
-### 1. 웰컴페이지 화면
-<img width="1453" height="699" alt="image" src="https://github.com/user-attachments/assets/79a11ad9-a4a0-468e-8bc6-4269a3462c4d" />
-<img width="1453" height="358" alt="image" src="https://github.com/user-attachments/assets/0f38b3b8-76bf-4e04-923a-ef580c9433f5" />
-<img width="1453" height="563" alt="image" src="https://github.com/user-attachments/assets/eb4b40ed-960b-4cec-9174-d301d1e7d602" />
-<img width="1451" height="638" alt="image" src="https://github.com/user-attachments/assets/816df15f-9762-4961-b1be-e0e83b83d7d6" />
-<img width="1453" height="570" alt="image" src="https://github.com/user-attachments/assets/a990ebdf-5712-419f-81b2-265f39e2fe8c" />
-<img width="1453" height="701" alt="image" src="https://github.com/user-attachments/assets/65ecf372-e198-4d5b-9219-611686133654" />
+### 1. 회원가입 화면
+<img width="1437" height="746" alt="image" src="https://github.com/user-attachments/assets/e5c2b4da-9073-4f92-b9c3-352d25a5e97c" />
+<img width="1453" height="753" alt="image" src="https://github.com/user-attachments/assets/44ee451d-b9b1-42f7-923a-ce0e3c461cf5" />
 
-### 2. 업장 등록 화면
-<img width="921" height="688" alt="image" src="https://github.com/user-attachments/assets/50d9aab8-5a63-435f-97a8-7b5061b10c9a" />
+### 2. 웰컴페이지 화면
+<img width="1453" height="699" alt="image" src="https://github.com/user-attachments/assets/79a11ad9-a4a0-468e-8bc6-4269a3462c4d" />
+<img width="1461" height="252" alt="image" src="https://github.com/user-attachments/assets/36bb0885-d67f-4438-ba41-7c4f03af28f0" />
+<img width="1458" height="441" alt="image" src="https://github.com/user-attachments/assets/4d55a0cd-a4c2-4306-b642-83eee4b8f20c" />
+<img width="1457" height="509" alt="image" src="https://github.com/user-attachments/assets/f706246e-b0e6-42e7-bbba-49be4081ba6f" />
+<img width="1461" height="505" alt="image" src="https://github.com/user-attachments/assets/624fd32c-622a-4e72-95d3-9602444f5da5" />
+<img width="1469" height="685" alt="image" src="https://github.com/user-attachments/assets/d96a4fc0-7397-4b12-a4ed-79197a318952" />
 
 ### 3. 메인페이지 화면
-<img width="1453" height="660" alt="image" src="https://github.com/user-attachments/assets/b90e99ff-7e5b-4e3f-b907-a7e85f6c69e5" />
+<img width="1453" height="775" alt="image" src="https://github.com/user-attachments/assets/ac5f4efc-42d2-4d61-92c2-8e27b3f35e2d" />
 
 ### 4. 카드뉴스 생성 화면
 <img width="1000" height="654" alt="image" src="https://github.com/user-attachments/assets/c3861f98-ece8-401c-95d4-06df69271b50" />
@@ -105,6 +106,18 @@ MarketBEE는 소상공인의 **폐업률 감소와 매출 증대**를 목표로 
 <img width="1298" height="549" alt="image" src="https://github.com/user-attachments/assets/3cd2609f-9116-47c4-9465-2d657b98e375" />
 <img width="1245" height="398" alt="image" src="https://github.com/user-attachments/assets/2c773fe3-b00f-4397-85f9-4014399f061f" />
 <img width="1459" height="687" alt="image" src="https://github.com/user-attachments/assets/6977e404-2cd0-4c68-9bda-5b5ac5397896" />
+
+### 7. 지도 이용 제휴
+<img width="1459" height="671" alt="image" src="https://github.com/user-attachments/assets/67c0759a-ea94-40b2-8d7f-4eb1f1473e38" />
+<img width="1456" height="714" alt="image" src="https://github.com/user-attachments/assets/140c12c7-0dec-4ade-8a8f-7f9a7e3cd53c" />
+<img width="1448" height="700" alt="image" src="https://github.com/user-attachments/assets/3cc43571-9320-4f6d-8f2f-fb309d907858" />
+
+### 8. 마이페이지
+<img width="1450" height="710" alt="image" src="https://github.com/user-attachments/assets/b0a39272-30ca-46ee-99ca-09374a4094b8" />
+<img width="1447" height="710" alt="image" src="https://github.com/user-attachments/assets/da959846-b13c-44ae-a1f3-93a18eb77b1a" />
+<img width="1439" height="604" alt="image" src="https://github.com/user-attachments/assets/4805a259-d7a1-45b5-8aa5-df1701989a3d" />
+<img width="1447" height="403" alt="image" src="https://github.com/user-attachments/assets/f48230dd-5feb-468e-9bf5-eeb90cca6df2" />
+
 
 <br>
 <br>
