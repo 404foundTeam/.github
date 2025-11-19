@@ -58,13 +58,13 @@ MarketBEE는 소상공인의 **폐업률 감소와 매출 증대**를 목표로 
 - Python (크롤링, venv)  
 
 **Frontend**  
-- React, JavaScript, HTML  
+- npm, React, JavaScript, HTML  
 - Module CSS
 - React Router, Zustand, Axios  
 - React Calendar, React Canvas, Chart.js, React Toastify, React Bubble Chart d3 
 
 **Tools**
-- VSC, Intellij IDEA, GitHub, Figma, npm   
+- VSC, Intellij IDEA, GitHub, Figma, Notion
 
 <br>
 <br>
